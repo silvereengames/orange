@@ -1,0 +1,5 @@
+flask>=3.0.0
+python-kasa>=0.7.0
+dataset>=1.6.2
+sqlalchemy>=2.0.0
+python-dotenv>=1.0.0
